@@ -2,6 +2,6 @@
 Childs Cuboid
 
 ## Author
-Name- Janmajay
+Name- Janmajay <br>
 Branch- CSE(AI & ML)
 Year- 2021-2025
